@@ -76,3 +76,5 @@ sudo docker stop encoder && sudo docker rm encoder
 ### Copyright & License
 - Copyright &copy; 2022 &mdash; [WeebTime](https://github.com/WeebTime)
 - Licensed under the terms of the [GNU Affero General Public License Version 3 &dash; 29 June 2007](./LICENSE)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
